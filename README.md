@@ -54,4 +54,3 @@ Explore the dashboard using filters, slicers, and drill-down options.
 
 📸 Screenshots
 ![Alt text](https://github.com/Panchal-sunil/classic_model_data/blob/main/Sales_Dashboard.png)
-Example: ![]
