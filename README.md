@@ -53,3 +53,4 @@ Load the sample dataset (Classic Models).
 Explore the dashboard using filters, slicers, and drill-down options.
 
 📸 Screenshots
+https://github.com/Panchal-sunil/classic_model_data/blob/main/Sales_Dashboard.png
